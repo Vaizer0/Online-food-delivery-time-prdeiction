@@ -34,4 +34,8 @@ For detailed documentation and project insights, please refer to the [GitHub Rep
 - Manisha Shinde
 - Pallavi Kale
 
+**Project Information:**
+- Project Name: Online Food Delivery Time Prediction
+- GitHub Repository: [Online-food-delivery-time-prdeiction](https://github.com/Vaizer0/Online-food-delivery-time-prdeiction.git)
+
 **License:** This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
